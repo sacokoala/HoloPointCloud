@@ -6,7 +6,8 @@
 - <a href="https://github.com/Microsoft/HoloToolkit-Unity">HoloToolkit-Unity</a>
 - <a href="https://www.assetstore.unity3d.com/#!/content/19811?aid=1100lGoW">Point Cloud Free Viewer</a> Please remove except Shader.
 
-1.Gaze SpacialMapping
-2.AirTap
-3.PointCloudData can be found in the following places.
-  User Files \ LocalAppData \ HoloPointCloud_* \ LocalState \ *.off
+#### How to play
+1. Gaze SpacialMapping<br />
+2. AirTap<br />
+3. PointCloudData can be found in the following places.<br />
+   User Files \ LocalAppData \ HoloPointCloud_* \ LocalState \ *.off<br />
