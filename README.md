@@ -9,5 +9,6 @@
 #### How to play
 1. Gaze SpacialMapping<br />
 2. AirTap<br />
-3. PointCloudData can be found in the following places.<br />
+3. Display Point Cloud Data<br />
+4. Point Cloud Data can be found in the following places.<br />
    User Files \ LocalAppData \ HoloPointCloud_* \ LocalState \ *.off<br />
