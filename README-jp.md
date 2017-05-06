@@ -3,8 +3,9 @@
 ### 概要
 - HoloLens単体で点群データ(PointCloudData)を作成するテストプログラムです。
 
-### 動作環境
+### 動作確認環境
 - Unity Editor Version: 5.5.1f1
+- Visual Studio 2015
 
 ### 動作に必要なUnity Asset
 - <a href="https://github.com/Microsoft/HoloToolkit-Unity">HoloToolkit-Unity</a>
@@ -21,3 +22,5 @@
 
 ※10回スキャンしたあたりで動作が怪しくなり、15回すぎるとメモリ不足でフリーズします。
   （あくまで動作実験という事で）
+
+5. offファイルは <a href="http://www.meshlab.net/">MeshLab</a> 等を使う事で、閲覧できます。
