@@ -12,3 +12,5 @@
 3. Display Point Cloud Data<br />
 4. Point Cloud Data can be found in the following places.<br />
    User Files \ LocalAppData \ HoloPointCloud_* \ LocalState \ *.off<br />
+
+If it exceeds 15 times, the program stops due to insufficient memory.
