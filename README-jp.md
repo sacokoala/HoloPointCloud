@@ -19,8 +19,7 @@
 3. 数フレーム後にスキャンした点群データが表示されます。
 4. スキャン後、以下の場所に点群データがoffファイル形式でセーブされます。<br />
    User Files \ LocalAppData \ HoloPointCloud_* \ LocalState \ *.off
+5. offファイルは <a href="http://www.meshlab.net/">MeshLab</a> 等を使う事で、PC上で閲覧できます。
 
 ※10回スキャンしたあたりで動作が怪しくなり、15回すぎるとメモリ不足でフリーズします。
   （あくまで動作実験という事で）
-
-5. offファイルは <a href="http://www.meshlab.net/">MeshLab</a> 等を使う事で、閲覧できます。
