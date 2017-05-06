@@ -1,5 +1,7 @@
 # HoloPointCloud
 
+A test program to create point cloud data with HoloLens.
+
 **Required Unity Editor Version: 5.5.1f1**
 
 #### Required Unity Asset
